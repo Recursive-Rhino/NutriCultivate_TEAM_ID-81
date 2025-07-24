@@ -17,6 +17,7 @@ This project aims to develop a smart crop advisory system using soil macronutrie
 
 ---
 ## Demo video
+ ### Link - https://drive.google.com/file/d/19FKbUFO5za_b39zt51icSDyuLkuGtXKq/view?usp=drivesdk 
 ## 🎯 Objective
 
 To recommend the most suitable crop and fertilizer strategy based on:
