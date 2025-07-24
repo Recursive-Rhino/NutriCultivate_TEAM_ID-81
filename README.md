@@ -78,7 +78,7 @@ To recommend the most suitable crop and fertilizer strategy based on:
 ## 🤖 Machine Learning
 
 - **Primary Model:** Random Forest Classifier  
-  → Achieved up to 98% accuracy
+  → Achieved up to 99% accuracy
 - **Baseline Model:** Logistic Regression
 
 ---
