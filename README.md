@@ -4,8 +4,13 @@
 This project aims to develop a smart crop advisory system using soil macronutrients and environmental parameters such as temperature, humidity, rainfall, and pH level. The system is designed to assist farmers—especially small and marginal ones—in making scientific decisions for crop selection and fertilizer usage.
 
 ---
-## TEAM ID - 81
-## 👨‍💻 Team Members
+## 📎 Project Presentation
+
+📥 [Download PPT: Crop Advisory Project](Crop_Advisory_Project_with_KPIs.pptx)
+---
+
+# TEAM ID - 81
+👨‍💻 Team Members
 - Smruti Ranjan Nayak (24CSE322)
 - Pritsh Behera (24ECE079)
 - Suraj Panda (24CSE092)
