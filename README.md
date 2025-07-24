@@ -6,9 +6,8 @@ This project aims to develop a smart crop advisory system using soil macronutrie
 ---
 ## 📎 Project Presentation
 
-📥 [Download PPT: Crop Advisory Project](Crop_Advisory_Project_with_KPIs.pptx)
----
-
+📥 [Download PPT: NUTRI CULTIVATE](NUTRI%20CULTIVATE.pptx)
+--
 # TEAM ID - 81
 👨‍💻 Team Members
 - Smruti Ranjan Nayak (24CSE322)
